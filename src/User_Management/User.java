@@ -1,4 +1,4 @@
-package UserManagement;
+package User_Management;
 
 public class User {
 	String firstName;
@@ -7,4 +7,5 @@ public class User {
 	int age;
 	String email;
 	String password;
+
 }
